@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chandra-prakash-reddy
-- 👀 I’m interested in java,python,microservices,kubernetes,spark,Kafka,data engineering
+- 👀 I’m interested in java,python,microservices,kubernetes,spark,kafka,aws,gcp,azure,data engineering
 - 🌱 I’m currently learning to process large scale distributed processing
 - 💞️ I’m looking to collaborate on any projects, with in my interested technology
 - 📫 How to reach me ckistaiahgari@gmail.com, phone : +919948620031

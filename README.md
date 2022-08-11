@@ -5,23 +5,21 @@
 
 <p>Hello.. World!!</p>
 </br>
-</br>
-</br>
 
-- 👋 Hi, I’m Chandraprakash Kistaiahgari                            
+- 👋 Hi, I’m Chandraprakash Kistaiahgari
+                            
 - 👀 I’m interested in java,python,microservices,kubernetes,spark,kafka,aws,gcp,azure,data engineering
+
 - 🌱 I’m currently learning large scale distributed processing
+
 - 💞️ I’m looking to collaborate on any projects, with in my interested technology
+
 - 📫 How to reach me ckistaiahgari@gmail.com, phone : +919948620031
 </br>
-</br>
-</br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chandra-prakash-reddy&show_icons=true&locale=en" alt="chandra-prakash-reddy" /></p>
-</br>
-</br>
-</br>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandra-prakash-reddy&show_icons=true&locale=en&layout=compact" alt="chandra-prakash-reddy" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-prakash-reddy&" alt="chandra-prakash-reddy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chandra-prakash-reddy&show_icons=true&locale=en" alt="chandra-prakash-reddy" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandra-prakash-reddy&show_icons=true&locale=en&layout=compact" alt="chandra-prakash-reddy" /></p>
+
 
               
 <!---

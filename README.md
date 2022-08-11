@@ -10,7 +10,7 @@
                             
 - 👀 I’m interested in java,python,microservices,kubernetes,spark,kafka,aws,gcp,azure,data engineering
 
-- 🌱 I’m currently learning large scale distributed processing
+- 🌱 I’m currently learning large scale distributed systems
 
 - 💞️ I’m looking to collaborate on any projects, with in my interested technology
 
